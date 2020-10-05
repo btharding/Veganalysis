@@ -56,11 +56,7 @@ class RecipeList extends React.Component{
           {this.state.result.results.map((item, i)=>{return(
               <div key = {i} className = "recipeResult" recipeid = {item.id}>
                 <Link to = {{
-                  pathname: `Veganalysis/recipe/${item.id}`,
-                  state: {
-                    getApiError : this.props.getApiError,
-                    getApiQueryPath : this.props.getApiQueryPath
-                  }
+                  pathname: `/Veganalysis/recipe/${item.id}`,
                 }}>
                   <h2>{item.title}</h2>
                   <img src = {item.image} alt = {"Image of " + item.title} />

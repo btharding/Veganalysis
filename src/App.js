@@ -53,7 +53,7 @@ class App extends React.Component{
       this.changeState("query","");
       return(
         <Router>
-          <Redirect to={"Veganalysis/search/"+this.state.query}/>
+          <Redirect to={"/Veganalysis/search/"+this.state.query}/>
         </Router>
       )
     }

@@ -70,8 +70,6 @@ class Recipe extends React.Component{
         }
       }
 
-      console.log("init: "+ this.state.initCarbon);
-      console.log("sub :" +this.state.subCarbon);
       return(
         <div className = "recipeCard">
           <h1 className = "recipeCardTitle">{toTitleCase(this.state.result.title)}</h1>

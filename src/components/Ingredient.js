@@ -24,7 +24,11 @@ class Ingredient extends React.Component{
   }
   render(){
     return(
-      <>{toTitleCase(this.props.details.measures.us.amount +" " +this.props.details.measures.us.unitLong +" "+ this.props.details.name)}</>
+      <p className = {"Name" in this.alternative ? "non-vegan" : ""}>{
+        toTitleCase(this.props.details.measures.us.amount +" " +this.props.details.measures.us.unitLong +" "+ this.props.details.name)
+        +
+        ("Name" in this.alternative ? " | Suggested substitution " + this.alternative.Name : "")
+      }</p>
     );
   }
 
