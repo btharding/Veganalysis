@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Veganalysis/static/css/main.a538a9aa.chunk.css",
-    "main.js": "/Veganalysis/static/js/main.05a9b231.chunk.js",
-    "main.js.map": "/Veganalysis/static/js/main.05a9b231.chunk.js.map",
+    "main.js": "/Veganalysis/static/js/main.56e3202c.chunk.js",
+    "main.js.map": "/Veganalysis/static/js/main.56e3202c.chunk.js.map",
     "runtime-main.js": "/Veganalysis/static/js/runtime-main.b096af10.js",
     "runtime-main.js.map": "/Veganalysis/static/js/runtime-main.b096af10.js.map",
     "static/js/2.e7a30702.chunk.js": "/Veganalysis/static/js/2.e7a30702.chunk.js",
     "static/js/2.e7a30702.chunk.js.map": "/Veganalysis/static/js/2.e7a30702.chunk.js.map",
     "index.html": "/Veganalysis/index.html",
-    "precache-manifest.c5c3e5635c0b34dd3e81e05630454c46.js": "/Veganalysis/precache-manifest.c5c3e5635c0b34dd3e81e05630454c46.js",
+    "precache-manifest.ee33ef2730402e392dc01604fadead2c.js": "/Veganalysis/precache-manifest.ee33ef2730402e392dc01604fadead2c.js",
     "service-worker.js": "/Veganalysis/service-worker.js",
     "static/css/main.a538a9aa.chunk.css.map": "/Veganalysis/static/css/main.a538a9aa.chunk.css.map",
     "static/js/2.e7a30702.chunk.js.LICENSE.txt": "/Veganalysis/static/js/2.e7a30702.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b096af10.js",
     "static/js/2.e7a30702.chunk.js",
     "static/css/main.a538a9aa.chunk.css",
-    "static/js/main.05a9b231.chunk.js"
+    "static/js/main.56e3202c.chunk.js"
   ]
 }
