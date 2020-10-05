@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d65ac022ec5d43dd58515d194c8bebe1",
+    "revision": "3d89e6fd68fc9348d387046b41c61fb6",
     "url": "/Veganalysis/index.html"
   },
   {
-    "revision": "5bab023efce6b8511856",
-    "url": "/Veganalysis/static/css/main.a538a9aa.chunk.css"
+    "revision": "4c712254a63b89d7d3f6",
+    "url": "/Veganalysis/static/css/main.1615bb0d.chunk.css"
   },
   {
     "revision": "95970d8b4621aae2a3fd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Veganalysis/static/js/2.e7a30702.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bab023efce6b8511856",
-    "url": "/Veganalysis/static/js/main.56e3202c.chunk.js"
+    "revision": "4c712254a63b89d7d3f6",
+    "url": "/Veganalysis/static/js/main.b3e9edd1.chunk.js"
   },
   {
     "revision": "b6e1f11ba148ede77e29",
