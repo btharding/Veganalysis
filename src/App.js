@@ -45,7 +45,7 @@ class App extends React.Component{
       this.changeState("goHome",false);
       return(
         <Router>
-          <Redirect to = {"/Veganalysis"}/>
+          <Redirect to = {"/Veganalysis/"}/>
         </Router>
       )
     }
@@ -64,7 +64,7 @@ class App extends React.Component{
 
         <Router>
           <Switch>
-            <Route exact path = "/Veganalysis" component = {Home}/>
+            <Route exact path = "/Veganalysis/" component = {Home}/>
             <Route exact path = "/Veganalysis/search/:query" render = {(props) => <RecipeList {...props}/>} />
             <Route exact path = "/Veganalysis/recipe/:id" render = {(props) => <Recipe {...props}/>} />
             <Route component = {Fof}/>
